@@ -21,7 +21,7 @@
 
 > *"I don't just build prototypes — I deploy production AI systems that create real business value."*
 
-I'm a **Full Stack AI Engineer** at **CognitBotz**, working on client projects for **Adani Green Energy**. I specialize in building end-to-end AI applications — from complex multi-agent RAG architectures to polished React frontends — and I write about production AI systems on Substack.
+I'm a **Full Stack AI Engineer** at **CognitBotz**, working on client projects for **Adani Green Energy**. I specialize in building end-to-end AI applications — from complex multi-agent RAG architectures to polished React frontends — and I write deep engineering articles about production AI on Substack.
 
 My work has:
 - 🕐 Automated **1,000+ hours/year** of manual processing
@@ -35,37 +35,45 @@ My work has:
 
 <div align="center">
 
-### AI / ML Engineering
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / ML Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Full Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### MLOps, Data & Automation
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ### Infrastructure & Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### MLOps & Observability
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 </div>
 
@@ -79,8 +87,8 @@ My work has:
 - 🤖 Architect and deploy **LLM-powered automation systems** using LangChain, LangGraph, Agno, and multi-agent frameworks
 - 🔗 Design and ship **production APIs** integrating chatbots, Q&A systems, and web agents at scale
 - 📄 Build **multimodal AI pipelines** handling text, documents, and identity verification
-- 📊 Lead **LLM evaluation** (accuracy, relevance, fairness) and implement bias mitigation strategies
-- 🔒 Drive **ethical AI practices** — data privacy, security, and safeguards against misuse
+- 📊 Lead **LLM evaluation** — accuracy, relevance, fairness — and implement bias mitigation strategies
+- 🔒 Drive **ethical AI practices**: data privacy, security, and safeguards against misuse
 
 ### 🏢 Infosys Springboard — AI Developer
 **Sep 2024 – Dec 2024 · India**
@@ -88,8 +96,8 @@ My work has:
 ### 🏢 EvoAstra Ventures — Data Scientist
 **Aug 2024 – Sep 2024 · India**
 
-- Built Streamlit AI app with Google Generative AI → **90%+ accuracy** on image-to-description + translation + voice synthesis
-- Developed BERT-based Q&A system → **30% NLP efficiency gain**, **20% accuracy improvement**
+- Built Streamlit AI app with Google Generative AI → **90%+ accuracy** on image description, multilingual translation & voice synthesis
+- Developed BERT-based Q&A system → **30% NLP efficiency gain** and **20% accuracy improvement**
 - Applied ElasticNet + MLflow for predictive modeling → **15% accuracy boost**
 
 ### 🏢 Cyber Crime Police Station — Data Analyst
@@ -130,7 +138,7 @@ Upload question papers → get precise, subject-specific answers via RAG + auton
 
 ---
 
-### 🤖 [500 AI Agents Projects](https://github.com/abhishekmane6122/500-AI-Agents-Projects) — Agents Collection
+### 🤖 [500 AI Agents Projects](https://github.com/abhishekmane6122/500-AI-Agents-Projects) — Comprehensive Agents Collection
 
 ![Agents](https://img.shields.io/badge/AI-Agents-red?style=flat-square)
 ![Count](https://img.shields.io/badge/Count-500+-blue?style=flat-square)
@@ -156,18 +164,18 @@ CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and aut
 
 > Deep engineering articles on production AI systems, architecture patterns, and real deployment lessons.
 
-| # | Article | Core Topics |
-|---|---------|-------------|
-| 01 | **[Multi-Agent Systems with LangGraph](https://substack.com/@abhimane)** | Supervisor pattern · stateful graphs · cyclic workflows |
-| 01 | **[Production Architecture: Nginx + FastAPI](https://substack.com/@abhimane)** | Reverse proxy · SSL/TLS · load balancing · DNS |
-| 02 | **[Context Engineering: Complete Guide](https://substack.com/@abhimane)** | Context window as RAM · information hierarchy · dynamic assembly |
-| 02 | **[Enterprise RAG Systems](https://substack.com/@abhimane)** | Hybrid search · reranking · Azure AI Foundry · production RAG |
-| 03 | **[LLMOps in Production](https://substack.com/@abhimane)** | Prompt versioning · CI/CD · cost optimization · monitoring |
-| 03 | **[Multimodal AI Architecture](https://substack.com/@abhimane)** | Vision-language fusion · cross-modal attention · CLIP + Whisper |
-| 04 | **[Small Language Models](https://substack.com/@abhimane)** | SLM vs LLM · fine-tuning · edge deployment · Phi-3.5 |
-| 04 | **[AI Agent Protocols & MCP](https://substack.com/@abhimane)** | Model Context Protocol · tool integration · agent standards |
-| 05 | **[Agentic AI in Production](https://substack.com/@abhimane)** | ReAct pattern · business automation · real-world agents |
-| 05 | **[AI Observability & Monitoring](https://substack.com/@abhimane)** | Metrics · traces · logs · Prometheus + Grafana + OpenTelemetry |
+| Series | Article | Core Topics |
+|--------|---------|-------------|
+| **Week 1 · Part A** | **[Building Production Multi-Agent Systems with LangGraph](https://substack.com/@abhimane)** | Supervisor pattern · stateful graphs · cyclic workflows · shared memory |
+| **Week 1 · Part B** | **[System Architecture: Nginx + FastAPI + DNS](https://substack.com/@abhimane)** | Reverse proxy · SSL/TLS termination · load balancing · DNS integration |
+| **Week 2 · Part A** | **[Context Engineering: Complete Architect's Guide](https://substack.com/@abhimane)** | Context window as RAM · information hierarchy · dynamic context assembly |
+| **Week 2 · Part B** | **[Enterprise RAG Systems: Prototype to Production](https://substack.com/@abhimane)** | Hybrid search · reranking · Azure AI Foundry · production RAG patterns |
+| **Week 3 · Part A** | **[LLMOps: Engineering Production AI That Actually Works](https://substack.com/@abhimane)** | Prompt versioning · CI/CD pipelines · cost optimization · A/B testing |
+| **Week 3 · Part B** | **[Multimodal AI Architecture: Vision, Language & Beyond](https://substack.com/@abhimane)** | Vision-language fusion · cross-modal attention · CLIP + Whisper + ViT |
+| **Week 4 · Part A** | **[Small Language Models: Efficient AI That Actually Ships](https://substack.com/@abhimane)** | SLM vs LLM · domain fine-tuning · edge deployment · Phi-3.5 / LLaMA |
+| **Week 4 · Part B** | **[AI Agent Protocols: MCP, Tool Integration & Standards](https://substack.com/@abhimane)** | Model Context Protocol · tool schemas · agent discovery & coordination |
+| **Week 5 · Part A** | **[Agentic AI in Production: Research Hype to Reality](https://substack.com/@abhimane)** | ReAct pattern · business automation · real-world production agents |
+| **Week 5 · Part B** | **[Production AI Observability: Monitoring, Logs & Debugging](https://substack.com/@abhimane)** | Metrics · distributed traces · Prometheus + Grafana + OpenTelemetry |
 
 <div align="center">
 
@@ -192,6 +200,23 @@ CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and aut
 ---
 
 ## 🎓 Education & Certifications
+
+```mermaid
+timeline
+    title Academic & Professional Journey
+    2019 : 10th - Sri Sri Ravishankar Vidya Mandir
+    2021 : 12th (Computer Science) - Shripatrao Bhosale Jr. College
+         : Started B.Tech in AI & Data Science at Terna Engineering College
+    2022 : Python Internship - Fantasy Technology
+         : Cisco Python Programming
+    2023 : Cisco Cyber Security Internship
+         : Data Analyst - Cyber Crime Police Station
+    2024 : Data Scientist - EvoAstra Ventures
+         : AI Developer - Infosys Springboard
+         : Joined CognitBotz as AI Engineer
+    2025 : B.Tech Completed - Terna Engineering College
+         : Senior AI Engineer - Client Adani Green Energy
+```
 
 **B.Tech in AI & Data Science** — Terna Engineering College *(2021 – 2025)*
 
@@ -218,6 +243,33 @@ CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and aut
 | ✍️ Technical articles published | **10** |
 
 </div>
+
+---
+
+## 🎨 Development Philosophy
+
+```mermaid
+graph LR
+    A[Understand the Problem] --> B[Design Architecture]
+    B --> C[Build & Iterate]
+    C --> D[Test in Production]
+    D --> E[Optimize Performance]
+    E --> F[Monitor & Improve]
+    F --> A
+
+    style A fill:#e3f2fd,stroke:#1976d2
+    style C fill:#fff3e0,stroke:#f57c00
+    style D fill:#e8f5e9,stroke:#388e3c
+    style F fill:#f3e5f5,stroke:#7b1fa2
+```
+
+### 🎯 Core Principles
+1. **🚀 Production over Prototype** — build things that actually run at scale
+2. **⚡ Performance Matters** — optimize latency, response time, and throughput
+3. **🔒 Security by Design** — data privacy and ethical AI from the start
+4. **🎨 Full Stack Ownership** — frontend to backend to deployment
+5. **📊 Metrics-Driven** — measure real business impact, not just accuracy scores
+6. **🔄 Continuous Learning** — stay at the frontier of agentic AI and LLMOps
 
 ---
 
