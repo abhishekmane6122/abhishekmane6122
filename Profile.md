@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="Abhishek_Profile.png" width="120" style="border-radius: 50%;" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mane-aiml/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekmane6122)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@abhimane)
@@ -11,9 +15,23 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+CognitBotz+%7C+Client%3A+Adani+Green+Energy;Production+RAG+%26+Multi-Agent+Systems+Builder;LangGraph+%7C+LangChain+%7C+LLMOps+Specialist;FastAPI+%2B+React+End-to-End+AI+Applications;Turning+AI+Research+into+Business+Value" alt="Typing SVG" />
+<!-- Quick Stats Row -->
+![Experience](https://img.shields.io/badge/Experience-1%2B%20Year-00D9FF?style=flat-square)
+![Articles](https://img.shields.io/badge/Articles_Published-10-00D9FF?style=flat-square)
+![Systems](https://img.shields.io/badge/Production_AI_Systems-5%2B-00D9FF?style=flat-square)
+![Award](https://img.shields.io/badge/GreenRatna_Award-Dec_2025-FFD700?style=flat-square&logo=star)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%40+CognitBotz+%7C+Client%3A+Adani+Green+Energy;Production+RAG+%26+Multi-Agent+Systems+Builder;LangGraph+%7C+LangChain+%7C+LLMOps+Specialist;FastAPI+%2B+React+End-to-End+AI+Applications;GreenRatna+Award+Winner+%E2%80%94+Dec+2025+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>
+
+---
+
+## 🔭 What I'm Focused On Right Now
+
+> Building **production-grade agentic AI systems** at Adani Green Energy — automating regulatory workflows, designing AI portals, and shipping multi-agent pipelines that leadership and stakeholders notice.
 
 ---
 
@@ -21,13 +39,28 @@
 
 > *"I don't just build prototypes — I deploy production AI systems that create real business value."*
 
-I'm a **Full Stack AI Engineer** at **CognitBotz**, working on client projects for **Adani Green Energy**. I specialize in building end-to-end AI applications — from complex multi-agent RAG architectures to polished React frontends — and I write deep engineering articles about production AI on Substack.
+I'm a **Full Stack AI Engineer** at **CognitBotz**, deployed at **Adani Green Energy Limited (AGEL)**. I specialize in building end-to-end AI applications — from complex multi-agent RAG architectures to polished React frontends. My AI portal and projects at AGEL were appreciated by **Hon'ble Chairman Shri Gautam Adani** and recognized across multiple leadership teams.
 
-My work has:
-- 🕐 Automated **1,000+ hours/year** of manual processing
-- ⚡ Optimized API response times from **8 seconds → 500ms**
-- 📊 Achieved **92% accuracy** in AI-powered document analysis
-- 🧠 Improved NLP task efficiency by **30%**
+| 🕐 1,000+ hrs automated/year | ⚡ 8s → 500ms API latency | 📊 92% document AI accuracy | 🧠 30% NLP efficiency gain |
+|---|---|---|---|
+
+---
+
+## 🏆 Recognition & Awards
+
+<div align="center">
+
+<img src="award.jpg" width="200" />
+
+### 🥇 GreenRatna Award — Performance of the Month (December 2025)
+**Adani Green Energy Limited · Team Digital**
+
+> Awarded for designing and delivering **AI-driven solutions and portals for AGEL**, recognized for innovation, efficiency, and real business impact. AI initiatives appreciated by **Hon'ble Chairman Shri Gautam Adani** and stakeholders across the organization.
+
+![Award](https://img.shields.io/badge/🏆_GreenRatna-Excellent_Performance-FFD700?style=for-the-badge)
+![Org](https://img.shields.io/badge/Adani_Green_Energy-Team_Digital-2E8B57?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -77,40 +110,75 @@ My work has:
 
 </div>
 
+### 🧭 Tech Radar
+
+| Stage | Technologies |
+|-------|-------------|
+| ✅ **Adopt** | LangGraph · RAG · FastAPI · Docker · LangChain · React · PostgreSQL · Azure AI Foundry |
+| 🔬 **Trial** | n8n · Databricks · OpenTelemetry · MCP (Model Context Protocol) · LangSmith |
+| 🔭 **Assess** | Agno · Llama 4 · Gemini 2.0 · Small Language Models (Phi-4) · AI Agents on Edge |
+| 🗄️ **Hold** | Monolithic ML pipelines · Single-model chatbots · Manual prompt management |
+
 ---
 
 ## 💼 Experience
 
-### 🏢 CognitBotz — AI Engineer
-**Nov 2024 – Present · Ahmedabad & Hyderabad, India | Client: Adani Green Energy**
+<details>
+<summary><b>🏢 CognitBotz — AI Engineer · Nov 2024 – Present</b> (click to expand)</summary>
+<br/>
+
+**Ahmedabad & Hyderabad, India | Client: Adani Green Energy Limited**
 
 - 🤖 Architect and deploy **LLM-powered automation systems** using LangChain, LangGraph, Agno, and multi-agent frameworks
 - 🔗 Design and ship **production APIs** integrating chatbots, Q&A systems, and web agents at scale
 - 📄 Build **multimodal AI pipelines** handling text, documents, and identity verification
 - 📊 Lead **LLM evaluation** — accuracy, relevance, fairness — and implement bias mitigation strategies
 - 🔒 Drive **ethical AI practices**: data privacy, security, and safeguards against misuse
+- 🏆 Received **GreenRatna Award (Dec 2025)** — Performance of the Month, recognized by Adani leadership
 
-### 🏢 Infosys Springboard — AI Developer
-**Sep 2024 – Dec 2024 · India**
+</details>
 
-### 🏢 EvoAstra Ventures — Data Scientist
-**Aug 2024 – Sep 2024 · India**
+<details>
+<summary><b>🏢 Infosys Springboard — AI Developer · Sep 2024 – Dec 2024</b></summary>
+<br/>
+
+AI development projects under the Infosys Springboard program.
+
+</details>
+
+<details>
+<summary><b>🏢 EvoAstra Ventures — Data Scientist · Aug 2024 – Sep 2024</b></summary>
+<br/>
 
 - Built Streamlit AI app with Google Generative AI → **90%+ accuracy** on image description, multilingual translation & voice synthesis
 - Developed BERT-based Q&A system → **30% NLP efficiency gain** and **20% accuracy improvement**
 - Applied ElasticNet + MLflow for predictive modeling → **15% accuracy boost**
 
-### 🏢 Cyber Crime Police Station — Data Analyst
-**Oct 2023 – Jan 2024 · Osmanabad, India**
+</details>
 
-### 🏢 Cisco Networking Academy — Cyber Security Intern
-**May 2023 – Jul 2023 · AICTE Virtual Internship**
+<details>
+<summary><b>🏢 Cyber Crime Police Station — Data Analyst · Oct 2023 – Jan 2024</b></summary>
+<br/>
+
+Managed credentials and extracted complaint data for the National Cyber Crime Reporting Portal. Maintained portal status and communicated resolutions directly with victims.
+
+</details>
+
+<details>
+<summary><b>🏢 Cisco Networking Academy — Cyber Security Intern · May 2023 – Jul 2023</b></summary>
+<br/>
+
+AICTE Virtual Internship in Cyber Security with Cisco.
+
+</details>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🩺 [Quantus Med](https://github.com/abhishekmane6122/Quantus-Med) — Multimodal AI Diagnostic Platform
+<details>
+<summary><b>🩺 Quantus Med — Enterprise Multimodal AI Diagnostic Platform</b></summary>
+<br/>
 
 ![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Multimodal-blue?style=flat-square)
@@ -125,9 +193,13 @@ Enterprise multimodal AI fusing medical vision + neural audio transcription for 
 
 **Stack**: FastAPI · React · TypeScript · Llama-3.3-70B · Gemini 1.5 Pro · Whisper-v3 · LangChain · Docker · Redis
 
----
+🔗 [View Project](https://github.com/abhishekmane6122/Quantus-Med)
 
-### 🎓 [Academic Assistant AI](https://github.com/abhishekmane6122/Academic-Assistant-AI) — Agentic RAG Expert System
+</details>
+
+<details>
+<summary><b>🎓 Academic Assistant AI — Agentic RAG Expert System</b></summary>
+<br/>
 
 ![AI](https://img.shields.io/badge/AI-Agentic-purple?style=flat-square)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-orange?style=flat-square)
@@ -136,33 +208,31 @@ Upload question papers → get precise, subject-specific answers via RAG + auton
 
 **Stack**: LangChain · RAG · ChromaDB · Tesseract OCR · FastAPI
 
----
+🔗 [View Project](https://github.com/abhishekmane6122/Academic-Assistant-AI)
 
-### 🤖 [500 AI Agents Projects](https://github.com/abhishekmane6122/500-AI-Agents-Projects) — Comprehensive Agents Collection
+</details>
 
-![Agents](https://img.shields.io/badge/AI-Agents-red?style=flat-square)
-![Count](https://img.shields.io/badge/Count-500+-blue?style=flat-square)
+<details>
+<summary><b>🤖 500 AI Agents Projects · ☁️ MLOps on GCP · 🌐 Azure Projects · 📄 Document OCR Analyzer</b></summary>
+<br/>
 
-Task automation, conversational, research, creative, data analysis, and security agents — all production-patterned.
+- **[500 AI Agents](https://github.com/abhishekmane6122/500-AI-Agents-Projects)** — Task automation, conversational, research, creative, data analysis, and security agents
+- **[MLOps on GCP](https://github.com/abhishekmane6122/mlops-on-gcp)** — CI/CD pipelines, drift detection, versioned artifacts, auto-scaling on Google Cloud
+- **[Azure Projects](https://github.com/abhishekmane6122/Azure-Projects)** — Azure Cognitive Services, ML workflows, Data Lake, Security Center
+- **[Document OCR Analyzer](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR)** — ML-powered career recommendations from academic records
+- **[Road Accident Dashboard](https://github.com/abhishekmane6122/Road-Accident-Data-Analysis-and-Visualization-Using-MS-Excel-Dashboard)** — Interactive Excel analytics and geographic visualization
 
----
-
-### ☁️ [MLOps on GCP](https://github.com/abhishekmane6122/mlops-on-gcp) — Production ML Pipeline
-
-![GCP](https://img.shields.io/badge/Cloud-GCP-blue?style=flat-square)
-![MLOps](https://img.shields.io/badge/Practice-MLOps-green?style=flat-square)
-
-CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and auto-scaling model endpoints on GCP.
-
----
-
-### 🌐 [Azure Projects](https://github.com/abhishekmane6122/Azure-Projects) · 📄 [Document OCR Analyzer](https://github.com/abhishekmane6122/Document-Extraction-Using-OCR) · 🚗 [Road Accident Dashboard](https://github.com/abhishekmane6122/Road-Accident-Data-Analysis-and-Visualization-Using-MS-Excel-Dashboard)
+</details>
 
 ---
 
 ## ✍️ Technical Writing — AI Architect Series on Substack
 
 > Deep engineering articles on production AI systems, architecture patterns, and real deployment lessons.
+
+<details>
+<summary><b>📚 View all 10 articles</b></summary>
+<br/>
 
 | Series | Article | Core Topics |
 |--------|---------|-------------|
@@ -177,6 +247,8 @@ CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and aut
 | **Week 5 · Part A** | **[Agentic AI in Production: Research Hype to Reality](https://substack.com/@abhimane)** | ReAct pattern · business automation · real-world production agents |
 | **Week 5 · Part B** | **[Production AI Observability: Monitoring, Logs & Debugging](https://substack.com/@abhimane)** | Metrics · distributed traces · Prometheus + Grafana + OpenTelemetry |
 
+</details>
+
 <div align="center">
 
 [![Read on Substack](https://img.shields.io/badge/Read_All_Articles-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@abhimane)
@@ -188,6 +260,10 @@ CI/CD pipelines, model monitoring, drift detection, versioned artifacts, and aut
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekmane6122&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekmane6122&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmane6122&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%" />
@@ -216,6 +292,7 @@ timeline
          : Joined CognitBotz as AI Engineer
     2025 : B.Tech Completed - Terna Engineering College
          : Senior AI Engineer - Client Adani Green Energy
+         : GreenRatna Award - Performance of the Month
 ```
 
 **B.Tech in AI & Data Science** — Terna Engineering College *(2021 – 2025)*
@@ -235,6 +312,7 @@ timeline
 
 | Metric | Value |
 |--------|-------|
+| 🥇 GreenRatna Award | **Dec 2025 — Adani Green Energy** |
 | ⏱️ Manual hours automated / year | **1,000+** |
 | ⚡ API latency optimized | **8s → 500ms** |
 | 📊 Document AI accuracy | **92%** |
@@ -286,7 +364,7 @@ graph LR
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekmane6122&color=00D9FF&style=for-the-badge)
 
-*"Turning cutting-edge AI research into scalable, enterprise-grade solutions."*
+*"Turning cutting-edge AI research into scalable, enterprise-grade solutions — recognized by those who matter."*
 
 </div>
 
